@@ -9,7 +9,7 @@ namespace test
 			Console.WriteLine("Hello World!");
             Console.WriteLine("おい！だれもブランチすら作ってないのはどういうことだ！！");
             Console.WriteLine("Hello World! 2017/03/06");
-            Console.WriteLine("test_fn");
+            Console.WriteLine("test_fn2");
         }
 	}
 }
